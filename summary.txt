@@ -1,9 +1,6 @@
 GITGITGITGOTGOTGOT
-<<<<<<< HEAD
 some new changes not reflected on the main
 
 second wave of new changes
 
 third wave of new changes here
-=======
->>>>>>> parent of ad75bb8 (arman changes)
